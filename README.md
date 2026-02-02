@@ -1,5 +1,5 @@
 # Steganography 
-#discord.gg/residencescreenshare
+discord.gg/residencescreenshare
 
 Утилита для анализа файлов на возможную стеганографию.
 
